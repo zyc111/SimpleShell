@@ -1,5 +1,9 @@
 # SimpleShell
 
-This is a program create simple terminal shell
+The program will create a simple shell with C language
 
-command such as ls, ls -l, echo and exit can run in the shell
+The shell will execute some command lines such as:
+  1. ls
+  2. ls -l
+  3. echo
+  4. exit
